@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "SLP.Processor.ScheduleWorker": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      },
+      "applicationUrl": "https://localhost:2488;http://localhost:2489"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
