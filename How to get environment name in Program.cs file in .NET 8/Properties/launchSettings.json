@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "SLP.Processor.ScheduleWorker": {
+    "Env.Name": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
